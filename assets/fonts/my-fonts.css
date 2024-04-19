@@ -1,0 +1,137 @@
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Thin"), local("NotoSansArmenian-Thin"),
+    url("NotoSansArmenian-Thin.woff2") format("woff2"), url("NotoSansArmenian-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  /* font-display: swap; */
+}
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian ExtraLight"), local("NotoSansArmenian-ExtraLight"),
+    url("NotoSansArmenian-ExtraLight.woff2") format("woff2"), url("NotoSansArmenian-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Light"), local("NotoSansArmenian-Light"),
+    url("NotoSansArmenian-Light.woff2") format("woff2"), url("NotoSansArmenian-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Regular"), local("NotoSansArmenian-Regular"),
+    url("NotoSansArmenian-Regular.woff2") format("woff2"), url("NotoSansArmenian-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Medium"), local("NotoSansArmenian-Medium"),
+    url("NotoSansArmenian-Medium.woff2") format("woff2"), url("NotoSansArmenian-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian SemiBold"), local("NotoSansArmenian-SemiBold"),
+    url("NotoSansArmenian-SemiBold.woff2") format("woff2"), url("NotoSansArmenian-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Bold"), local("NotoSansArmenian-Bold"),
+    url("NotoSansArmenian-Bold.woff2") format("woff2"), url("NotoSansArmenian-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Black"), local("NotoSansArmenian-Black"),
+    url("NotoSansArmenian-Black.woff2") format("woff2"), url("NotoSansArmenian-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "garden-font-am";
+  src: local("Noto Sans Armenian Black"), local("NotoSansArmenian-Black"),
+    url("NotoSansArmenian-Black.woff2") format("woff2"), url("NotoSansArmenian-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "garden-font-heading";
+  src: url("LibreBaskerville-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "garden-font-heading";
+  src: url("LibreBaskerville-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(Roboto-Thin.ttf) format("truetype");
+  font-family: "garden-font-en";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(Roboto-Light.ttf) format("truetype");
+  font-family: "garden-font-en";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(Roboto-Regular.ttf) format("truetype");
+  font-family: "garden-font-en";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  src: url(Roboto-Medium.ttf) format("truetype");
+  font-family: "garden-font-en";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  src: url(Roboto-Bold.ttf) format("truetype");
+  font-family: "garden-font-en";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(Roboto-Black.ttf) format("truetype");
+  font-family: "garden-font-en";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Mist Gardens",
+  "logo": ["Mist Gardens", "Museum & Botanical Garden"],
+  "navList": ["Home", "Visit", "Exhibitions", "Programs & Events", "Store"],
+  "navBtn": "Membership",
+  "intro-heading": "A beatiful adventure awaits",
+  "intro-desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nunc",
+  "intro-buttons": ["Buy Tickets", "Learn More"],
+  "second-section-heading": "Discover yourself with nature",
+  "second-section-desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nuncLorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nunc",
+  "second-section-btn": "Learn More",
+  "footer-desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nuncLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "footer-nav-titles": ["Sitemap", "Connect"],
+  "copyright": "© 2024 Mist Gardens. All rights reserved."
+}

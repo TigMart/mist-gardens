@@ -1,0 +1,40 @@
+.btn {
+  padding: 16px 32px;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 2.1px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  font-weight: 700;
+}
+
+.btn:hover {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.btn-primary {
+  background: transparent;
+  border: 2px solid var(--color-text-tint3);
+  color: var(--color-text-tint3);
+}
+
+.btn-primary:hover {
+  color: var(--color-text-tint2);
+  border-color: var(--color-text-tint2);
+}
+
+.btn-secondary {
+  background: var(--primary);
+  border: 2px solid var(--primary);
+  color: white;
+}
+
+.btn-tertiary {
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+.btn-tertiary:hover {
+  border: 2px solid var(--primary);
+}
